@@ -10,9 +10,12 @@ The United States Army utilizes some helicopters which can be broken into differ
     * [CH-72D Chinook](Chinook.md)
 * **Attack Helicopters**
     * [AH-64 Apache](Apache.md)
-   
-  
-   
+
+
+
+_Since 1947, The Army has named its helicopter models after North American Native American Tribes to honor the fighting spirit of Native American warriors._ 
+
+
   
     
 
