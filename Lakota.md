@@ -1,4 +1,4 @@
 ## UH-72A Lakota
-_Utility Helicopter_
+_**Utility Helicopter**_
 
 ![Lakota](download-3.jpg)
