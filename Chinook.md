@@ -11,4 +11,7 @@ _**Transport Helicopter**_
 | Fuel Capacity | 1080 gallons | 
 | Service Ceiling | 20,000 feet | 
 
+The United States Army's primary supply transport and heavy troop helicopter. 
+
+
 [Home](README.md)
