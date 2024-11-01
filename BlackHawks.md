@@ -6,7 +6,7 @@ _**Utility Helicopter**_
 
 ![UH-60M](blackhawk.jpg)
 
----
+
 | Manufacturer | Sikorsky Aircraft |
 | ----------- | ----------- |
 |  Max Speed | 183 MPH |
@@ -14,7 +14,7 @@ _**Utility Helicopter**_
 | Max Gross Weight |  22,000 lbs |
 | Fuel Capacity | 360 gallons | 
 | Service Ceiling | 19,000 ft | 
-
+---
 > **Fun Fact: The Black Hawk can be folded up and fit into a C-130 for transportation** 
 ---
 **Timeline**
