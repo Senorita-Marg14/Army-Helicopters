@@ -5,6 +5,7 @@ _**Transport Helicopter**_
 
 **The United States Army's primary supply transport and heavy troop helicopter**
 
+---
 
 
 
@@ -17,7 +18,7 @@ _**Transport Helicopter**_
 | Service Ceiling | 20,000 feet | 
 
 > **Fun Fact: While designed to carry around 36 passengers, unofficial reports say the Chinook was able to carry 147 refugees in a single lift during the Vietnam War**
-
+---
 **Timeline**
 - 1956: Army announces plans to replace Sikorsky Ch-37 Mojave with a new model
 - 1958: Vertol Aircraft begins development of the Chinook
