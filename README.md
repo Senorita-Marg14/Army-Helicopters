@@ -5,11 +5,12 @@ The United States Army utilizes some helicopters which can be broken into differ
 * **Utility Helicopters**
     * [UH-60 Blackhawk](BlackHawks.md) 
     * [UH-72A Lakota](Lakota.md)
+    * [Bell UH-1 Iroquois](Bell.md)
 * **Transport Helicopters**
-    * CH-72D Chinook 
+    * [CH-72D Chinook](Chinook.md)
 * **Attack Helicopters**
-    * AH-64 Apache
-    * OH-58D Kiowa Warrior
+    * [AH-64 Apache](Apache.md)
+   
   
    
   
