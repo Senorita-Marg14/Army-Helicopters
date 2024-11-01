@@ -12,8 +12,8 @@ _**Attack Helicopter**_
 | Fuel Capacity | 2,517 lbs | 
 | Service Ceiling | 20,000 feet | 
 
-
-> **Fun Fact: The Lakota helicopters are built in Columbus, Mississippi** 
+---
+> **Fun Fact: The Apache can carry up to 16 Hellfire missiles, 76 70mm aerial rockets, and 1,2000 rounds of 30mm ammunition** 
 ---
 **Timeline**
 - 1972: The Army cancels the production of the AH-56 Cheyenne 
