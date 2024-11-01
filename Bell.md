@@ -23,5 +23,6 @@ _**Utility Helicopter**_
 - 2020s: The upgraded UH-72B version enters service
     - _This includes a fenestron tail rotor, more powerful engines, FADEC, and enhanced avionics_
 
+[Next](Chinook.md)
 
 [Home](README.md)
