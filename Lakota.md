@@ -23,6 +23,7 @@ _**Utility Helicopter**_
     - _This includes a fenestron tail rotor, more powerful engines, FADEC, and enhanced avionics_
 
 
-[Next](
+[Next](Bell.md)
+
 [Home](README.md)
 
