@@ -25,6 +25,6 @@ _**Utility Helicopter**_
 
 [Next](Chinook.md)
 
-[Last](Lakota.md)
+[Back](Lakota.md)
 
 [Home](README.md)
