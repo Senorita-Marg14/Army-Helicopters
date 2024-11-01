@@ -25,6 +25,6 @@ _**Attack Helicopter**_
 - 1997: The upgraded AH-64D is introduced
 - 2013: AH-64E is introduced and is slated to stay in production until 2027
 
-[Last](chinook.md)
+[Last](Chinook.md)
 
 [Home](README.md)
