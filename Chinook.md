@@ -3,9 +3,6 @@ _**Transport Helicopter**_
 
 ![Chinook](download-2.jpg)
 
-**The United States Army's primary supply transport and heavy troop helicopter**
-
-
 
 
 
