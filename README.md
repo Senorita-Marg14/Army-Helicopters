@@ -1,4 +1,4 @@
-# Army Helicopters
+# Army Helicopters 🚁
 _Information about different Army Helicopters_
 
 The United States Army utilizes some helicopters which can be broken into different categories: 
