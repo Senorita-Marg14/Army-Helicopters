@@ -16,7 +16,7 @@ _**Transport Helicopter**_
 | Max Gross Weight | 54,000 lbs. |
 | Fuel Capacity | 1080 gallons | 
 | Service Ceiling | 20,000 feet | 
-
+---
 > **Fun Fact: While designed to carry around 36 passengers, unofficial reports say the Chinook was able to carry 147 refugees in a single lift during the Vietnam War**
 ---
 **Timeline**
