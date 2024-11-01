@@ -11,7 +11,7 @@ _**Utility Helicopter**_
 | Fuel Capacity | 229 gallons | 
 | Service Ceiling | 18,000 ft | 
 
-
+---
 > **Fun Fact: The Lakota helicopters are built in Columbus, Mississippi** 
 ---
 **Timeline**
